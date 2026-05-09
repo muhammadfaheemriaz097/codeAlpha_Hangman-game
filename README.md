@@ -1,3 +1,28 @@
-# codeAlpha_Hangman-game
-🎮 Simple Hangman Game built with Python. This beginner-friendly project allows players to guess a hidden word letter by letter with limited wrong attempts. It uses core Python concepts like loops, conditions, lists, strings, user input, and the random module. 
-The project is console-based and designed to improve problem-solving and programming logic skills. A great mini project for Python beginners and students learning game development basics.
+
+# Hangman Game in Python 🎮
+A simple text-based Hangman game built using Python. The player guesses letters to reveal a hidden word before running out of chances.
+## Features
+* Random word selection
+* Limited wrong guesses
+* Letter-by-letter guessing
+* Simple console-based gameplay
+* Beginner-friendly Python project
+## Concepts Used
+* `random` module
+* `while` loops
+* `if-else` conditions
+* Lists and strings
+* User input handling
+## How to Run
+1. Install Python
+2. Download or clone the project
+3. Run the Python file:
+```bash
+python hangman.py
+``
+## Learning Purpose
+
+This project was created to practice basic Python programming concepts and improve problem-solving skills.
+## Author
+Muhammad Faheem
+Python Developer Intern at [CodeAlpha](https://www.codealpha.tech?utm_source=chatgpt.com)
