@@ -25,4 +25,4 @@ python hangman.py
 This project was created to practice basic Python programming concepts and improve problem-solving skills.
 ## Author
 Muhammad Faheem
-Python Developer Intern at [CodeAlpha](https://www.codealpha.tech?utm_source=chatgpt.com)
+Python Developer Intern at [CodeAlpha](https://www.codealpha.tech
